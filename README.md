@@ -96,7 +96,7 @@ The application displays:
 ## Project Structure
 
 ```text
-Fake-News-Detection/
+Fake-News-Detector/
 │
 ├── app.py
 │
