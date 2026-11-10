@@ -105,16 +105,12 @@ Fake-News-Detection/
 │   └── prediction.py
 │
 ├── model/
-│   └── saved model and vectorizer files
-│
-├── notebooks/
-│   └── model development notebooks
+│   └── saved model and vectorizer file
 │
 ├── dataset/
-│   └── dataset files (not included in GitHub)
+│   └── dataset files (not included , download using link provided)
 │
 ├── requirements.txt
-├── .gitignore
 └── README.md
 ```
 
@@ -126,7 +122,7 @@ Fake-News-Detection/
 
 ```bash
 git clone YOUR_REPOSITORY_URL
-cd Fake-News-Detection
+cd Fake-News-Detector
 ```
 
 ### 2. Create a virtual environment (optional but recommended)
@@ -188,4 +184,6 @@ This project is an educational Machine Learning implementation and should not be
 
 ---
 
-**Built as an end-to-end Machine Learning and NLP project to explore text classification and misinformation detection.**
+## Output Snippets
+<img width="1679" height="912" alt="image" src="https://github.com/user-attachments/assets/2116af7e-c0b1-4362-8b28-c01c06f60d8d" />
+
