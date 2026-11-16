@@ -74,16 +74,16 @@ A probabilistic classification algorithm commonly used for text classification t
 
 ## Model Evaluation
 
-Logistic Regression achieved the following results on the held-out test set:
+Both Logistic Regression and Multinomial Naive Bayes were trained and evaluated as part of the project and following results were achieved on the held-out test set:
 
-| Metric | Score |
-|---|---:|
-| Accuracy | 96.09% |
-| Precision | 96.07% |
-| Recall | 95.16% |
-| F1-Score | 95.61% |
+| Metric | Logistic Regression | Multinomial Naive Bayes |
+|---|---|---:|
+| Accuracy | 0.960858 | 0.888552 |
+| Precision | 0.960661 | 0.859136 |
+| Recall | 0.951601 | 0.898577 |
+| F1-Score | 0.956110 | 0.878414 |
 
-Both Logistic Regression and Multinomial Naive Bayes were trained and evaluated as part of the project.
+Thus, Logistic Regression was chosen for its better performance.
 
 ## Application
 
