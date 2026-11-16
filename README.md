@@ -77,7 +77,7 @@ A probabilistic classification algorithm commonly used for text classification t
 Both Logistic Regression and Multinomial Naive Bayes were trained and evaluated as part of the project and following results were achieved on the held-out test set:
 
 | Metric | Logistic Regression | Multinomial Naive Bayes |
-|---|---|---:|
+|---|---|---|
 | Accuracy | 0.960858 | 0.888552 |
 | Precision | 0.960661 | 0.859136 |
 | Recall | 0.951601 | 0.898577 |
